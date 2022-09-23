@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10,
+    "imageUrl": "/img/book.png"
+  },
+  {
+    "id": 2,
+    "name": "Book",
+    "price": 10,
+    "imageUrl": "/img/book.png"
+  },
+  {
+    "id": 3,
+    "name": "Book",
+    "price": 10,
+    "imageUrl": "/img/book.png"
+  },
+  {
+    "id": 4,
+    "name": "Book",
+    "price": 10,
+    "imageUrl": "/img/book.png"
+  },
+  {
+    "id": 5,
+    "name": "Book",
+    "price": 10,
+    "imageUrl": "/img/book.png"
+  },
+  {
+    "id": 6,
+    "name": "Book",
+    "price": 10,
+    "imageUrl": "/img/book.png"
+  },
+  {
+    "id": 7,
+    "name": "Book",
+    "price": 10,
+    "imageUrl": "/img/book.png"
+  }
+]
